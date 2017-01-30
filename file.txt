@@ -1,3 +1,5 @@
 Shows staged, unstaged and untracked files
 Do not be afraid to use it after every command
 Better with colours enabled
+
+Hello there
