@@ -2,6 +2,6 @@ Shows staged, unstaged and untracked files
 Do not be afraid to use it after every command
 Better with colours enabled(maybe conflict)
 
-Hello there
+Hello there (br1)
 
 Im 2nd god
